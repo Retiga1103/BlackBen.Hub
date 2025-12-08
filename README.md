@@ -100,7 +100,7 @@ Add animations or graphics
 Add more pet types
 
 
-Add sound or voice features
+
 
 
 7. Author Info
