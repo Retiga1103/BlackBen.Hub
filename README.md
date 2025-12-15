@@ -50,7 +50,8 @@ Objects store individual pet behavior and state.
 UML Diagram
 
 
-![Uploading Screenshot 2025-12-15 105109.png…]()
+
+<img width="1001" height="503" alt="Screenshot 2025-12-15 105109" src="https://github.com/user-attachments/assets/b175283d-c34c-43a2-83c1-c3e89471d7bb" />
 
 
 
