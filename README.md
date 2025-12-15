@@ -129,8 +129,15 @@ How to use inheritance and polymorphism
 
 How to structure a multi-class Java project
 
-
 How to collaborate and divide roles
+
+KNOWN BUGS:
+The program does not handle invalid or unexpected user input (such as entering letters when a number is expected), which may cause the program to crash or behave unexpectedly.
+
+User input is case-sensitive in some places, which may result in pets not responding correctly if the input format is different than expected.
+
+
+
 
 
 
