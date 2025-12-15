@@ -48,7 +48,9 @@ Arrays or simple variables store responses and pet options.
 Objects store individual pet behavior and state.
 
 UML Diagram
-https://drive.google.com/file/d/1xMIXv-BOxAeYdEWoZRV5635YDoVDpscl/view?usp=sharing
+
+
+<img width="283" height="260" alt="Screenshot 2025-05-02 102319" src="https://github.com/user-attachments/assets/33795b70-5a2b-457d-aa1a-90f68f4465b4" />
 
 
 5. How to Run the Program
